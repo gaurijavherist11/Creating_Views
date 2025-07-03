@@ -1,5 +1,5 @@
 use gauridb1;
-
+-- 1. Use CREATE VIEW with Complex SELECT 
 -- View 1: Full Order Details with Payments
 CREATE VIEW FullOrderDetails AS
 SELECT 
